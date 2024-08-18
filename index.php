@@ -1,4 +1,6 @@
 <html>
+  <head>
+    
 <title>
 Welcome to Test
 </title>
@@ -7,7 +9,8 @@ Welcome to Test
       background-color: blue;
     }
   </style>
-  <body>
+  </head>
+    <body>
  <h1>
 Welcome to Test
 </h1>   
