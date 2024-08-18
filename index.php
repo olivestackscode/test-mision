@@ -2,7 +2,15 @@
 <title>
 Welcome to Test
 </title>
-<h1>
+  <style>
+    body{
+      background-color: blue;
+    }
+  </style>
+  <body>
+ <h1>
 Welcome to Test
-</h1>
+</h1>   
+  </body>
+
 </html>
